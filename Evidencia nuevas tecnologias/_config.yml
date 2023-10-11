@@ -1,0 +1,10 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Documentación
+
+nombres: Laura Cristina Zuluaga Castaño
+submodulo: Nuevas Tecnologias
+periodo: 2023-2
+url_foto: https://firebasestorage.googleapis.com/v0/b/loginfbauth-da146.appspot.com/o/Foto%2FWhatsApp%20Image%202023-10-04%20at%2011.55.36%20AM.jpeg?alt=media&token=b0cbb76f-9fec-491a-9f17-f6b7900daf3e
